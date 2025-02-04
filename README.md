@@ -1,4 +1,4 @@
-<img width="1328" alt="Screenshot 2025-02-04 at 16 26 01" src="https://github.com/user-attachments/assets/57cf1d16-b3d0-4d50-8e82-8add3706c484" /># Lezzet Kapıda - SwiftUI Bootcamp Bitirme Projesi
+# Lezzet Kapıda - SwiftUI Bootcamp Bitirme Projesi
 
 ## Proje Tanıtımı
 
