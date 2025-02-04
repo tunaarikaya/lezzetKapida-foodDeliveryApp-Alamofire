@@ -1,4 +1,4 @@
-# Lezzet Kapıda - SwiftUI Bootcamp Bitirme Projesi
+<img width="1328" alt="Screenshot 2025-02-04 at 16 26 01" src="https://github.com/user-attachments/assets/57cf1d16-b3d0-4d50-8e82-8add3706c484" /># Lezzet Kapıda - SwiftUI Bootcamp Bitirme Projesi
 
 ## Proje Tanıtımı
 
@@ -26,10 +26,8 @@
 - **API Entegrasyonu**  
   Gerçek zamanlı veri çekme, silme ve güncelleme işlemleri başarıyla entegre edildi.
 
+
 ## Ekran Görüntüleri
 
-<img src="https://github.com/user-attachments/assets/88cd55ac-0f7d-4b98-bcb3-561236d99d59" alt="Ekran 1" width="300"/>  
-<img src="https://github.com/user-attachments/assets/844bd681-a0a0-4d54-a715-d58bd35f1762" alt="Ekran 2" width="300"/>  
-<img src="https://github.com/user-attachments/assets/0066ef70-bf30-4548-aa67-5b2cdd8fc951" alt="Ekran 3" width="300"/>  
-<img src="https://github.com/user-attachments/assets/024aca11-62a6-4942-a017-80194bec6bfd" alt="Ekran 4" width="300"/>  
-<img src="https://github.com/user-attachments/assets/4613a106-e3f9-4ce3-969d-e5e445ce326f" alt="Ekran 5" width="300"/>  
+<img src="https://github.com/user-attachments/assets/670166d0-69c7-4df9-a945-fb83873633c0" alt="Ekran 1" width="600"/>  
+
